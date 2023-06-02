@@ -1,0 +1,217 @@
+
+    State: florida, 
+    City: alachua, 
+    Company: Quarterman Trucking , 
+    Business since: 20000412,
+    MC Number: 382250,
+    Phone: 352-462-2288,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Martin Trucking , 
+    Business since: null,
+    MC Number: 401935,
+    Phone: 850-418-4231,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Malott Trucking Co , 
+    Business since: null,
+    MC Number: 321512,
+    Phone: 386-462-9509,
+    Fax: 386-418-2081
+  
+    State: florida, 
+    City: alachua, 
+    Company: American Boat Brokers , 
+    Business since: 20111119,
+    MC Number: 272541,
+    Phone: 904-462-1044,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: American Logistics North, Inc. , 
+    Business since: 20111119,
+    MC Number: 432241,
+    Phone: 386-462-5388,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Auto Transport Service, Inc. , 
+    Business since: null,
+    MC Number: 276197,
+    Phone: 386-418-0124,
+    Fax: 386-418-0133
+  
+    State: florida, 
+    City: alachua, 
+    Company: Bruce Cribbs , 
+    Business since: null,
+    MC Number: 1104562,
+    Phone: 352-316-6311,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Freight Exchange LLC , 
+    Business since: 20111119,
+    MC Number: 515866,
+    Phone: 352-505-7606,
+    Fax: 386-462-1164
+  
+    State: florida, 
+    City: alachua, 
+    Company: Gilligan Transport, Inc. , 
+    Business since: null,
+    MC Number: 630732,
+    Phone: 386-418-1188,
+    Fax: 352-505-4525
+  
+    State: florida, 
+    City: alachua, 
+    Company: Hagios Transport Services , 
+    Business since: null,
+    MC Number: 1224926,
+    Phone: 352-681-6941,
+    Fax: 352-453-1057
+  
+    State: florida, 
+    City: alachua, 
+    Company: Hagios Transportation Services LLC , 
+    Business since: 20210728,
+    MC Number: 1286640,
+    Phone: 352-681-6941,
+    Fax: 352-453-1057
+  
+    State: florida, 
+    City: alachua, 
+    Company: Loyaut'e Transport LLC , 
+    Business since: 20210331,
+    MC Number: 1223558,
+    Phone: 352-871-1756,
+    Fax: 352-871-1756
+  
+    State: florida, 
+    City: alachua, 
+    Company: D & M Transportation , 
+    Business since: 20111119,
+    MC Number: 353767,
+    Phone: 904-462-3145,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Market Place Delivery LLC , 
+    Business since: 20220325,
+    MC Number: 1403437,
+    Phone: 352-339-3138,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Maylaw103 LLC , 
+    Business since: 20221221,
+    MC Number: 1504092,
+    Phone: 386-462-1778,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Nrjj Transport, Inc. , 
+    Business since: 20190221,
+    MC Number: 1021774,
+    Phone: 319-535-0461,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: L & T Trucking , 
+    Business since: null,
+    MC Number: 1309828,
+    Phone: 352-222-3052,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Percy Motor Xpress , 
+    Business since: 20150817,
+    MC Number: 930953,
+    Phone: 352-281-1614,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: R & S Auto Transport, Inc. , 
+    Business since: 20000809,
+    MC Number: 391089,
+    Phone: 386-418-0506,
+    Fax: 386-418-1266
+  
+    State: florida, 
+    City: alachua, 
+    Company: Ram Cargo LLC , 
+    Business since: 20220906,
+    MC Number: 1468635,
+    Phone: 407-808-5588,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Rkd Express LLC , 
+    Business since: 20180619,
+    MC Number: 104748,
+    Phone: 352-538-0292,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Robert Dix , 
+    Business since: 20060606,
+    MC Number: 786462,
+    Phone: 386-462-1298,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: SchaunlongentLLC , 
+    Business since: null,
+    MC Number: 114112,
+    Phone: 904-966-9513,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Selah Logistics LLC , 
+    Business since: 20211227,
+    MC Number: 1361233,
+    Phone: 352-278-7558,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Transportation Cyc LLC , 
+    Business since: 20210427,
+    MC Number: 1243098,
+    Phone: 787-975-4088,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Warso Logistics LLC , 
+    Business since: 20200921,
+    MC Number: 1154139,
+    Phone: 321-960-4098,
+    Fax: undefined
+  
+    State: florida, 
+    City: alachua, 
+    Company: Wyns LLC , 
+    Business since: 20220831,
+    MC Number: 1466851,
+    Phone: 352-256-6196,
+    Fax: undefined
+  
