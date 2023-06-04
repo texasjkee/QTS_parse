@@ -1,7 +1,7 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
 
-module.exports  = async (pageUrl, state, city) => {
+module.exports = t = async (pageUrl, state, city) => {
   const getHTML = async (url) => {
     const {data} = await axios.get(url);
     return cheerio.load(data);
@@ -20,7 +20,7 @@ module.exports  = async (pageUrl, state, city) => {
     city,
     name,
     phone,
-    fax, 
+    fax: fax ? fax : null, 
     mc: null,
     since: null,
   }
@@ -34,19 +34,21 @@ module.exports  = async (pageUrl, state, city) => {
   });
 
   bigData.forEach((el, i) => {
-    const since = el.join().includes('since');
+    const companySince = el.join().includes('since');
 
-    if(since) {
-      validData.since = Number(bigData[i + 1]);
+    if(companySince) {
+      const since = bigData[i + 1][0];
+      const year = since.slice(0, 4);
+      const month = since.slice(4, 6);
+      const day = since.slice(6, 8);
+
+      validData.since = `${day}.${month}.${year}`;
     };
 
     if(el == 'MC Number') {
-      validData.mc = Number(bigData[i + 1]);
-    }
-  })
+      validData.mc = bigData[i + 1][0];
+    };
+  });
 
   return validData;
 };
-
-// const url = 'https://www.quicktransportsolutions.com/truckingcompany/alabama/cdm-carriers-llc-usdot-3339678.php';
-// const url = 'https://www.quicktransportsolutions.com/truckingcompany/idaho/slim-chance-transportation-usdot-1264572.php';
